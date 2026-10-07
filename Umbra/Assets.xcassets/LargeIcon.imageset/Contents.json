@@ -1,10 +1,12 @@
 {
   "images" : [
     {
+      "filename" : "A · Eclipse@1x.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "A · Eclipse@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
